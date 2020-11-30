@@ -1,0 +1,1235 @@
+broken year,industry,location,funded status,survival time,cause of failure
+2019,Finance,Shanghai,A,1730,supervision
+2019,Finance,Zhejiang,B,2214,supervision
+2019,Health,Guangdong,C,1887,get outcompeted
+2019,E-Commerce,Fujian,C,727,ran out of cash
+2019,Health,Beijing,C,1750,supervision
+2019,Health,Beijing,D,229,no business model
+2019,Education,Shanghai,C,8622,ran out of cash
+2019,Transportation,Hunan,C,763,burn out
+2019,Tool,Guangdong,B,914,no business model
+2019,E-Commerce,Beijing,E,4136,pivot gone bad
+2019,Finance,Shanghai,B,1726,supervision
+2019,Local Business,Guangdong,F,1603,burn out
+2019,Education,Beijing,C,1602,no business model
+2019,Real Estate,Jiangsu,C,1193,ran out of cash
+2019,Marketing,Shanghai,C,1888,pivot gone bad
+2019,E-Commerce,Beijing,G,3924,ran out of cash
+2019,Entertainment,Shanghai,C,3768,ran out of cash
+2019,E-Commerce,Zhejiang,C,556,ran out of cash
+2019,Finance,Shanghai,C,2644,supervision
+2019,Finance,Shanghai,B,2034,supervision
+2019,Finance,Shanghai,G,1577,supervision
+2019,Finance,Sichuan,B,1757,ran out of cash
+2019,Health,Guangdong,C,2454,no market need
+2019,Game,Shanghai,C,589,no business model
+2019,Finance,Beijing,C,1443,supervision
+2019,Transportation,Beijing,D,1381,burn out
+2019,Health,Shanghai,I,2133,no business model
+2019,E-Commerce,Beijing,J,1461,no market need
+2019,Local Business,Zhejiang,J,1126,no business model
+2019,Local Business,Shanghai,B,1522,no market need
+2019,Social Media,Beijing,D,1522,ran out of cash
+2019,Health,Beijing,C,1612,pivot gone bad
+2019,Finance,Beijing,D,516,supervision
+2019,Enterprise Service,Beijing,D,1400,product mistimed
+2019,Finance,Hebei,C,1400,supervision
+2019,Hardware,Beijing,C,1612,no market need
+2019,Finance,Beijing,D,1492,no market need
+2019,Local Business,Beijing,D,1278,ran out of cash
+2019,Transportation,Beijing,E,1553,get outcompeted
+2019,Entertainment,Zhejiang,D,1431,no business model
+2019,Social Media,Jiangsu,D,1431,no market need
+2019,Local Business,Beijing,B,822,poor product
+2019,E-Commerce,Zhejiang,J,638,no market need
+2019,E-Commerce,Beijing,B,1581,burn out
+2019,Finance,Shanghai,C,1247,no business model
+2019,Entertainment,Beijing,C,2252,no business model
+2019,Finance,Shanghai,C,1247,no business model
+2019,E-Commerce,Guangdong,B,1461,no market need
+2019,E-Commerce,Shanghai,C,1065,no business model
+2019,E-Commerce,Beijing,D,1492,no business model
+2019,Education,Beijing,D,1431,no business model
+2019,Transportation,Zhejiang,B,1431,pricing/cost issue
+2019,Real Estate,Hubei,D,1612,get outcompeted
+2019,Tool,Beijing,D,1216,no market need
+2019,Enterprise Service,Jiangsu,C,1400,get outcompeted
+2019,Transportation,Shanghai,D,1553,get outcompeted
+2019,E-Commerce,Beijing,D,1339,pricing/cost issue
+2019,Enterprise Service,Shaanxi,D,1581,no investor interest
+2019,Sports,Beijing,C,1247,pricing/cost issue
+2019,Social Media,Beijing,C,1461,no market need
+2019,Health,Beijing,D,1612,no business model
+2019,Social Media,Beijing,D,1522,no market need
+2019,E-Commerce,Beijing,B,1522,product mistimed
+2019,Entertainment,Zhejiang,D,881,lose focus
+2019,Local Business,Fujian,D,1461,no market need
+2019,Local Business,Shanghai,D,1581,no market need
+2019,Transportation,Shanghai,D,1247,get outcompeted
+2019,Enterprise Service,Henan,C,547,pivot gone bad
+2019,Real Estate,Guangdong,B,1553,supervision
+2019,Enterprise Service,Zhejiang,D,1369,product mistimed
+2019,Entertainment,Beijing,D,1612,no market need
+2019,E-Commerce,Beijing,D,1461,no market need
+2019,Social Media,Zhejiang,D,1431,no business model
+2019,Tool,Zhejiang,K,1492,no business model
+2019,Finance,Zhejiang,D,730,supervision
+2019,Local Business,Beijing,J,1216,no investor interest
+2019,Health,Beijing,D,1431,no investor interest
+2019,E-Commerce,Sichuan,F,1612,no market need
+2019,Real Estate,Shanghai,B,1461,burn out
+2019,Tool,Guangdong,D,1369,no market need
+2019,Transportation,Beijing,D,1612,burn out
+2019,Tool,Hubei,D,1492,no market need
+2019,E-Commerce,Beijing,C,1339,no market need
+2019,E-Commerce,Beijing,D,1126,no market need
+2019,E-Commerce,Beijing,C,1339,no investor interest
+2019,Health,Guangdong,C,1156,no business model
+2019,Game,Shanghai,D,608,no business model
+2019,Finance,Shanghai,D,1612,supervision
+2019,Transportation,Zhejiang,A,1065,burn out
+2019,Enterprise Service,Guangdong,D,1461,no market need
+2019,E-Commerce,Beijing,D,1553,get outcompeted
+2019,E-Commerce,Hubei,C,1278,no business model
+2019,Social Media,Beijing,D,1369,no business model
+2019,Finance,Beijing,D,1612,no market need
+2019,Finance,Beijing,D,1278,no business model
+2019,Local Business,Beijing,D,912,get outcompeted
+2019,Enterprise Service,Zhejiang,D,1187,product mistimed
+2019,Health,Beijing,E,1612,no business model
+2019,Health,Beijing,E,1612,no business model
+2019,Tool,Beijing,C,1278,no market need
+2019,Enterprise Service,Anhui,C,1522,no investor interest
+2019,Social Media,Shanghai,C,1247,no market need
+2019,Local Business,Sichuan,C,1369,no market need
+2019,Travel,Chongqing,D,1431,no market need
+2019,Enterprise Service,Sichuan,D,1461,no business model
+2019,Local Business,Zhejiang,J,912,no market need
+2019,Social Media,Beijing,D,1581,no market need
+2019,Logistics,Beijing,C,1553,get outcompeted
+2019,Health,Beijing,C,1400,pricing/cost issue
+2019,Real Estate,Guangdong,B,1461,product mistimed
+2019,Enterprise Service,Sichuan,C,1400,no business model
+2019,Social Media,Guangdong,D,1612,no market need
+2019,Social Media,Beijing,G,547,founder
+2019,Enterprise Service,Beijing,B,1461,pivot gone bad
+2019,Finance,Beijing,C,1156,supervision
+2019,Education,Beijing,J,1553,product mistimed
+2019,Enterprise Service,Beijing,D,1247,pivot gone bad
+2019,Hardware,Zhejiang,C,1278,pricing/cost issue
+2019,Finance,Shanghai,C,1492,no business model
+2019,Education,Shaanxi,C,1581,get outcompeted
+2019,Social Media,Zhejiang,D,1553,no business model
+2019,Social Media,Beijing,D,1308,poor product
+2019,E-Commerce,Shanghai,D,1612,no investor interest
+2019,E-Commerce,Beijing,D,1612,ran out of cash
+2019,Social Media,Beijing,K,1522,no market need
+2019,Enterprise Service,Beijing,D,1492,no market need
+2019,Enterprise Service,Beijing,B,1612,pivot gone bad
+2019,Transportation,Beijing,D,1612,product mistimed
+2019,Finance,Zhejiang,C,1431,no investor interest
+2019,Transportation,Shanghai,D,1553,no business model
+2019,Finance,Beijing,E,1553,supervision
+2019,Local Business,Beijing,D,1522,product mistimed
+2019,Entertainment,Jiangsu,C,1369,no business model
+2019,Game,Sichuan,C,396,ran out of cash
+2019,Local Business,Overseas,B,1612,burn out
+2019,Transportation,Beijing,K,1461,product mistimed
+2019,Finance,Zhejiang,A,1753,supervision
+2019,Finance,Zhejiang,A,1927,legal challenges
+2019,E-Commerce,Shanghai,E,3499,pivot gone bad
+2019,Local Business,Guangdong,G,637,founder
+2019,Enterprise Service,Beijing,B,1396,founder
+2019,Enterprise Service,Beijing,D,1364,get outcompeted
+2019,Finance,Zhejiang,A,1863,legal challenges
+2019,Transportation,Guangdong,B,764,founder
+2019,E-Commerce,Shanghai,B,883,no business model
+2019,Logistics,Beijing,G,3074,ignore customers
+2019,Finance,Guangdong,L,2800,supervision
+2019,Entertainment,Shanghai,A,1368,burn out
+2019,Finance,Guangdong,D,3126,supervision
+2019,Enterprise Service,Beijing,A,1726,product mistimed
+2019,Enterprise Service,Hubei,C,1419,ran out of cash
+2019,Education,Shanghai,K,2052,no market need
+2019,Local Business,Beijing,A,1798,team/investors
+2019,Entertainment,Shanghai,D,1943,no business model
+2019,Education,Shanghai,I,2336,product mistimed
+2019,Real Estate,Shanghai,M,1705,burn out
+2019,Enterprise Service,Zhejiang,D,1394,pivot gone bad
+2019,Agriculture,Shanghai,C,1394,pivot gone bad
+2019,Finance,Beijing,A,2791,ran out of cash
+2019,Education,Beijing,E,870,ran out of cash
+2019,Health,Beijing,D,1417,no business model
+2019,Finance,Zhejiang,F,1627,supervision
+2019,E-Commerce,Hunan,N,1864,lose focus
+2019,Finance,Shanghai,A,1645,legal challenges
+2018,Finance,Beijing,C,1825,pivot gone bad
+2018,E-Commerce,Beijing,D,1552,no market need
+2018,Local Business,Guangdong,D,1825,no business model
+2018,Finance,Sichuan,D,1552,supervision
+2018,Local Business,Overseas,K,1521,no market need
+2018,E-Commerce,Beijing,A,1825,ran out of cash
+2018,Local Business,Beijing,K,1491,lose focus
+2018,Entertainment,Shanghai,K,1825,ran out of cash
+2018,Health,Beijing,C,1613,lose focus
+2018,Education,Beijing,D,1613,lose focus
+2018,Marketing,Shaanxi,C,1644,no investor interest
+2018,Enterprise Service,Sichuan,D,1552,get outcompeted
+2018,Transportation,Shanghai,D,1582,burn out
+2018,Marketing,Beijing,D,1674,no investor interest
+2018,Health,Zhejiang,B,1491,burn out
+2018,E-Commerce,Guangdong,C,1735,no investor interest
+2018,Education,Beijing,D,1825,ran out of cash
+2018,Transportation,Beijing,D,1491,product mistimed
+2018,E-Commerce,Zhejiang,D,1794,lose focus
+2018,Travel,Shanghai,B,1552,product mistimed
+2018,Sports,Beijing,D,1582,no investor interest
+2018,Tool,Fujian,C,1825,no investor interest
+2018,Logistics,Guangdong,B,1825,founder
+2018,Sports,Guangdong,D,1766,product mistimed
+2018,Enterprise Service,Beijing,B,1613,no business model
+2018,Game,Beijing,D,1825,get outcompeted
+2018,Enterprise Service,Beijing,B,1613,no business model
+2018,Logistics,Shanghai,B,1613,no investor interest
+2018,Transportation,Shandong,D,1491,no market need
+2018,Education,Beijing,D,1674,ran out of cash
+2018,Entertainment,Guangdong,F,1613,product mistimed
+2018,Local Business,Guangdong,B,1644,pivot gone bad
+2018,Social Media,Beijing,B,1582,no business model
+2018,Local Business,Jiangsu,C,1735,get outcompeted
+2018,Social Media,Beijing,D,1613,no business model
+2018,Local Business,Beijing,E,1491,product mistimed
+2018,Finance,Shanghai,C,1644,supervision
+2018,Logistics,Shanghai,C,1613,no business model
+2018,Social Media,Shanghai,C,1491,no market need
+2018,Transportation,Guangdong,D,1491,no market need
+2018,E-Commerce,Beijing,C,1825,lose focus
+2018,Local Business,Shanghai,D,1674,no market need
+2018,E-Commerce,Zhejiang,B,1613,no business model
+2018,E-Commerce,Guangdong,B,1552,pivot gone bad
+2018,Social Media,Beijing,D,1825,no market need
+2018,Entertainment,Overseas,J,1613,poor product
+2018,Local Business,Shanghai,D,1521,product mistimed
+2018,Enterprise Service,Sichuan,C,1613,no business model
+2018,Finance,Zhejiang,C,1825,supervision
+2018,Real Estate,Beijing,B,1674,no business model
+2018,Game,Shanghai,D,1674,ran out of cash
+2018,Local Business,Guangdong,C,1644,pricing/cost issue
+2018,Hardware,Guangdong,C,1644,ran out of cash
+2018,E-Commerce,Zhejiang,C,1674,get outcompeted
+2018,Entertainment,Beijing,D,1491,product mistimed
+2018,Hardware,Guangdong,D,1735,no market need
+2018,Entertainment,Beijing,C,1825,no business model
+2018,Local Business,Beijing,D,1521,pivot gone bad
+2018,Transportation,Beijing,D,1735,poor product
+2018,Social Media,Guangdong,B,1644,product mistimed
+2018,Local Business,Beijing,D,1674,no business model
+2018,Game,Overseas,B,1825,not the right team
+2018,Transportation,Jiangsu,C,2070,no business model
+2018,Travel,Beijing,D,1644,no market need
+2018,Health,Guangdong,C,1552,no business model
+2018,Sports,Beijing,D,1491,no market need
+2018,Enterprise Service,Anhui,C,1766,no investor interest
+2018,Transportation,Overseas,E,1735,lose focus
+2018,Marketing,Jiangsu,D,1766,no business model
+2018,Sports,Beijing,C,1582,no business model
+2018,Social Media,Guangdong,D,1491,no market need
+2018,Education,Zhejiang,B,1644,ran out of cash
+2018,Education,Shanghai,G,1491,ran out of cash
+2018,Enterprise Service,Beijing,D,1552,get outcompeted
+2018,Transportation,Beijing,D,1735,burn out
+2018,E-Commerce,Guangdong,D,1674,no market need
+2018,Social Media,Liaoning,D,1521,no business model
+2018,Social Media,Shanghai,D,1794,no business model
+2018,Transportation,Beijing,F,1766,burn out
+2018,E-Commerce,Guangdong,B,1552,team/investors
+2018,E-Commerce,Shanghai,C,1521,no business model
+2018,Entertainment,Beijing,B,1674,no business model
+2018,Local Business,Beijing,D,1644,product mistimed
+2018,Local Business,Beijing,B,1766,burn out
+2018,Enterprise Service,Shanghai,B,1582,get outcompeted
+2018,Enterprise Service,Tianjin,D,1521,product mistimed
+2018,Transportation,Beijing,D,1825,no market need
+2018,Game,Shanghai,D,1491,ran out of cash
+2018,E-Commerce,Guangdong,C,1613,pricing/cost issue
+2018,Sports,Beijing,D,1552,no market need
+2018,Enterprise Service,Jiangsu,C,1705,no investor interest
+2018,Local Business,Guangdong,D,1766,no market need
+2018,Logistics,Overseas,J,1521,product mistimed
+2018,Transportation,Beijing,B,1766,burn out
+2018,Tool,Shanghai,D,1674,no market need
+2018,Finance,Shanghai,D,1825,ran out of cash
+2018,Transportation,Beijing,C,1856,no business model
+2018,Social Media,Fujian,D,1644,no market need
+2018,Local Business,Zhejiang,D,1491,no market need
+2018,Enterprise Service,Beijing,J,1674,no market need
+2018,Education,Zhejiang,D,1644,no market need
+2018,Hardware,Jiangsu,C,1521,pricing/cost issue
+2018,Sports,Guangdong,K,1825,ran out of cash
+2018,Tool,Sichuan,K,1521,no market need
+2018,Enterprise Service,Beijing,C,1735,ignore customers
+2018,Social Media,Hubei,C,1735,no market need
+2018,Enterprise Service,Beijing,D,1886,no investor interest
+2018,Sports,Jiangsu,C,1705,pricing/cost issue
+2018,Finance,Jiangsu,C,1582,supervision
+2018,Transportation,Guangdong,C,1644,no market need
+2018,E-Commerce,Guangdong,D,1521,no business model
+2018,Social Media,Guangdong,D,1644,no market need
+2018,Local Business,Zhejiang,D,1613,no business model
+2018,Sports,Shanghai,D,1644,poor marketing
+2018,E-Commerce,Zhejiang,J,1582,no market need
+2018,Real Estate,Shanghai,D,1491,product mistimed
+2018,Tool,Sichuan,C,1644,no business model
+2018,Education,Beijing,C,1491,lose focus
+2018,Enterprise Service,Beijing,D,1521,product mistimed
+2018,Finance,Beijing,C,1735,no business model
+2018,E-Commerce,Beijing,D,1705,product mistimed
+2018,Travel,Beijing,D,1582,no market need
+2018,E-Commerce,Guangdong,E,1552,burn out
+2018,Enterprise Service,Beijing,D,1613,pivot gone bad
+2018,Transportation,Beijing,D,1766,founder
+2018,Hardware,Shanghai,D,1582,no investor interest
+2018,Health,Beijing,B,1552,burn out
+2018,Social Media,Shanghai,A,1644,no market need
+2018,Tool,Shanghai,D,1521,legal challenges
+2018,Hardware,Fujian,D,1582,ran out of cash
+2018,Transportation,Sichuan,B,1521,product mistimed
+2018,Travel,Beijing,C,1825,pivot gone bad
+2018,Local Business,Shanghai,G,1491,no market need
+2018,Social Media,Beijing,C,2496,no business model
+2018,Sports,Beijing,E,1735,no investor interest
+2018,Transportation,Beijing,A,1856,no business model
+2018,Social Media,Beijing,D,1825,no business model
+2018,E-Commerce,Zhejiang,D,1582,no market need
+2018,Hardware,Guangdong,K,1766,product mistimed
+2018,Tool,Beijing,K,1644,no market need
+2018,Health,Tianjin,D,1674,no business model
+2018,Enterprise Service,Jiangsu,D,1735,no business model
+2018,E-Commerce,Guangdong,C,1825,pivot gone bad
+2018,Finance,Guangdong,C,1582,ran out of cash
+2018,Social Media,Guangdong,D,1582,no investor interest
+2018,Health,Shanghai,D,1825,no business model
+2018,Entertainment,Beijing,C,1582,no market need
+2018,Transportation,Beijing,C,1552,get outcompeted
+2018,Tool,Overseas,D,1735,pivot gone bad
+2018,Local Business,Zhejiang,D,1491,get outcompeted
+2018,Real Estate,Shanghai,A,1766,ran out of cash
+2018,Education,Guangdong,D,1613,lose focus
+2018,Enterprise Service,Hubei,C,695,lose focus
+2018,Entertainment,Zhejiang,A,2339,ran out of cash
+2018,Hardware,Zhejiang,A,1456,ran out of cash
+2018,Health,Zhejiang,J,872,no business model
+2018,Finance,Sichuan,D,1433,no business model
+2018,Local Business,Beijing,K,944,get outcompeted
+2018,Hardware,Shandong,B,1490,poor marketing
+2018,Real Estate,Shanghai,D,1943,burn out
+2018,Entertainment,Shanghai,B,1121,burn out
+2018,Logistics,Guangdong,K,869,get outcompeted
+2018,Health,Shanghai,D,1316,no business model
+2018,Travel,Shanghai,E,2374,product mistimed
+2018,Education,Shanghai,B,1516,ran out of cash
+2018,Education,Beijing,C,3303,no business model
+2018,Education,Beijing,B,3424,no business model
+2018,E-Commerce,Jiangsu,G,3696,team/investors
+2018,Education,Shanghai,B,1135,burn out
+2018,Social Media,Beijing,D,1461,no business model
+2018,Local Business,Beijing,D,779,get outcompeted
+2018,E-Commerce,Beijing,B,1825,get outcompeted
+2018,Sports,Guangdong,G,1275,product mistimed
+2018,Real Estate,Zhejiang,D,902,supervision
+2018,Health,Beijing,G,2052,ran out of cash
+2018,Enterprise Service,Shanghai,D,1414,product mistimed
+2018,Finance,Shanghai,G,1351,supervision
+2018,E-Commerce,Beijing,J,735,ran out of cash
+2018,Local Business,Beijing,B,1189,get outcompeted
+2018,Finance,Beijing,D,1127,lose focus
+2018,Finance,Beijing,I,1571,ran out of cash
+2018,Finance,Shanghai,A,1781,supervision
+2018,Finance,Shanghai,G,1781,supervision
+2018,Finance,Shanghai,B,1478,supervision
+2018,Finance,Beijing,G,1781,supervision
+2018,Finance,Liaoning,F,1569,supervision
+2018,Finance,Shanghai,G,1382,legal challenges
+2018,Finance,Guangdong,A,1411,supervision
+2018,Finance,Beijing,B,2111,supervision
+2018,Finance,Zhejiang,B,1288,supervision
+2018,Finance,Shanghai,K,1319,supervision
+2018,Finance,Zhejiang,B,1318,supervision
+2018,Finance,Shanghai,B,1897,supervision
+2018,Transportation,Hong Kong,B,555,burn out
+2018,Finance,Zhejiang,B,800,supervision
+2018,Finance,Zhejiang,B,1105,supervision
+2018,Finance,Zhejiang,C,1285,pivot gone bad
+2018,Finance,Zhejiang,D,1104,supervision
+2018,Finance,Shanghai,D,1497,no market need
+2018,Enterprise Service,Zhejiang,B,1070,legal challenges
+2018,Finance,Shanghai,F,1374,supervision
+2018,Finance,Zhejiang,B,1067,supervision
+2018,Social Media,Hebei,D,1424,no business model
+2018,Social Media,Beijing,C,1424,no business model
+2018,Local Business,Beijing,B,627,get outcompeted
+2018,Social Media,Shanghai,C,5362,lose focus
+2018,Enterprise Service,Beijing,B,1323,no investor interest
+2018,Game,Sichuan,C,1885,not the right team
+2018,Enterprise Service,Beijing,C,1460,no business model
+2018,Game,Guangdong,A,1280,founder
+2018,E-Commerce,Beijing,D,3990,no business model
+2018,Health,Beijing,C,155,no business model
+2018,Finance,Beijing,C,4567,supervision
+2018,Travel,Beijing,G,2071,no business model
+2018,Social Media,Beijing,C,1157,no business model
+2018,Local Business,Beijing,D,153,pricing/cost issue
+2018,Finance,Guangdong,A,1280,ran out of cash
+2018,Travel,Beijing,D,976,no market need
+2018,Entertainment,Beijing,D,579,failure to pivot
+2018,Tool,Fujian,D,1065,no market need
+2018,Enterprise Service,Shanghai,D,1157,get outcompeted
+2018,E-Commerce,Zhejiang,D,1065,get outcompeted
+2018,Local Business,Guangdong,D,1006,no business model
+2018,Finance,Shanghai,D,1096,supervision
+2018,Finance,Beijing,D,365,supervision
+2017,Social Media,Beijing,C,3592,no business model
+2017,Travel,Shanghai,F,1886,get outcompeted
+2017,E-Commerce,Beijing,D,1705,ran out of cash
+2017,Transportation,Beijing,D,2131,pricing/cost issue
+2017,Finance,Shanghai,A,1521,supervision
+2017,E-Commerce,Shanghai,E,1978,pricing/cost issue
+2017,Entertainment,Shanghai,C,2252,no business model
+2017,Health,Beijing,D,1644,lose focus
+2017,Social Media,Beijing,D,1613,pivot gone bad
+2017,Entertainment,Guangdong,D,1886,no business model
+2017,E-Commerce,Shanghai,D,1825,no market need
+2017,Travel,Beijing,E,1735,get outcompeted
+2017,Finance,Hunan,C,1705,supervision
+2017,E-Commerce,Shanghai,C,1947,no business model
+2017,Entertainment,Guangdong,C,2039,pivot gone bad
+2017,Social Media,Guangdong,D,2039,pivot gone bad
+2017,Tool,Beijing,D,2160,no business model
+2017,Game,Hubei,C,2009,get outcompeted
+2017,Marketing,Beijing,D,1886,pivot gone bad
+2017,Health,Fujian,D,1521,pivot gone bad
+2017,E-Commerce,Guangdong,C,2100,no market need
+2017,Social Media,Shanghai,C,1917,no market need
+2017,E-Commerce,Beijing,D,1766,no market need
+2017,Entertainment,Jiangsu,C,1582,no business model
+2017,E-Commerce,Beijing,B,1978,ran out of cash
+2017,Logistics,Overseas,A,1644,no business model
+2017,Enterprise Service,Guangdong,D,2191,get outcompeted
+2017,Real Estate,Shanghai,D,1917,no market need
+2017,Social Media,Guangdong,C,1766,pivot gone bad
+2017,Travel,Shanghai,C,1825,no business model
+2017,Game,Beijing,B,1766,poor marketing
+2017,Game,Fujian,C,1978,pivot gone bad
+2017,Entertainment,Beijing,B,2009,lose focus
+2017,Education,Beijing,D,2070,product mistimed
+2017,E-Commerce,Beijing,C,1613,poor product
+2017,Hardware,Beijing,B,1856,pricing/cost issue
+2017,Marketing,Shandong,G,2191,pivot gone bad
+2017,Hardware,Taiwan,D,1674,no market need
+2017,Game,Shanghai,D,1947,burn out
+2017,Travel,Beijing,F,1644,get outcompeted
+2017,Education,Beijing,C,4323,no market need
+2017,Entertainment,Beijing,C,1644,lose focus
+2017,Entertainment,Beijing,D,1825,pivot gone bad
+2017,Entertainment,Beijing,D,1886,no business model
+2017,Finance,Zhejiang,C,1521,supervision
+2017,Health,Beijing,C,1766,no business model
+2017,Tool,Shandong,C,1825,legal challenges
+2017,Real Estate,Beijing,C,2100,no business model
+2017,Entertainment,Beijing,D,1917,no market need
+2017,Local Business,Overseas,A,2131,get outcompeted
+2017,Health,Beijing,D,1886,ran out of cash
+2017,E-Commerce,Shaanxi,B,2131,no business model
+2017,Local Business,Shanghai,C,1825,lose focus
+2017,Enterprise Service,Guangdong,C,1886,get outcompeted
+2017,Transportation,Beijing,C,2375,no business model
+2017,Education,Beijing,C,1735,pricing/cost issue
+2017,Local Business,Beijing,C,2100,get outcompeted
+2017,Finance,Beijing,D,1552,product mistimed
+2017,E-Commerce,Shanghai,D,1735,no business model
+2017,Real Estate,Sichuan,D,1825,get outcompeted
+2017,Social Media,Hunan,D,1735,ran out of cash
+2017,Finance,Guangdong,B,1886,founder
+2017,E-Commerce,Guangdong,C,1917,get outcompeted
+2017,Local Business,Beijing,B,1825,founder
+2017,E-Commerce,Shanghai,C,1340,no business model
+2017,Game,Beijing,C,2131,pivot gone bad
+2017,Finance,Fujian,C,2039,ran out of cash
+2017,Transportation,Zhejiang,C,1825,get outcompeted
+2017,Marketing,Beijing,C,1735,no business model
+2017,Education,Liaoning,C,2131,poor marketing
+2017,Tool,Beijing,C,2100,pivot gone bad
+2017,E-Commerce,Beijing,C,1735,no business model
+2017,Travel,Beijing,D,2009,poor product
+2017,Local Business,Guangdong,D,1947,pivot gone bad
+2017,Enterprise Service,Beijing,D,1735,product mistimed
+2017,Real Estate,Beijing,C,2100,no business model
+2017,Game,Guangdong,B,1917,legal challenges
+2017,Tool,Sichuan,C,1705,no investor interest
+2017,Entertainment,Beijing,D,1825,product mistimed
+2017,E-Commerce,Zhejiang,C,1886,pivot gone bad
+2017,Sports,Shanghai,D,2191,legal challenges
+2017,Education,Beijing,C,1644,not the right team
+2017,Transportation,Shanghai,A,1552,pricing/cost issue
+2017,Tool,Beijing,D,2191,no market need
+2017,Entertainment,Beijing,D,1552,no market need
+2017,Education,Guangdong,C,1766,no business model
+2017,Social Media,Guangdong,C,1825,product mistimed
+2017,Enterprise Service,Beijing,D,1613,get outcompeted
+2017,Entertainment,Chongqing,B,1825,poor marketing
+2017,E-Commerce,Zhejiang,C,2466,no business model
+2017,Local Business,Liaoning,C,2131,pivot gone bad
+2017,Transportation,Zhejiang,B,1947,get outcompeted
+2017,Education,Beijing,C,2160,no business model
+2017,Local Business,Shanghai,K,1582,pricing/cost issue
+2017,E-Commerce,Beijing,C,2160,no business model
+2017,Health,Guangdong,C,1825,no business model
+2017,Education,Shanghai,D,1856,no business model
+2017,Entertainment,Shanghai,D,1705,pivot gone bad
+2017,Entertainment,Beijing,C,1825,pivot gone bad
+2017,Tool,Shanghai,C,1582,no market need
+2017,Transportation,Shanghai,D,1705,no market need
+2017,Local Business,Beijing,D,1552,ran out of cash
+2017,Health,Beijing,D,2160,no business model
+2017,E-Commerce,Beijing,C,2100,get outcompeted
+2017,Tool,Beijing,D,2191,no business model
+2017,Entertainment,Shanghai,B,1978,no market need
+2017,Entertainment,Shanghai,D,1582,product mistimed
+2017,Entertainment,Beijing,D,1552,pricing/cost issue
+2017,Local Business,Beijing,D,1521,no market need
+2017,Tool,Guangdong,D,1644,no market need
+2017,Enterprise Service,Beijing,B,2070,get outcompeted
+2017,E-Commerce,Yunnan,C,1613,no investor interest
+2017,Enterprise Service,Sichuan,C,1582,pivot gone bad
+2017,Health,Chongqing,C,2191,no business model
+2017,Local Business,Zhejiang,D,2191,get outcompeted
+2017,Enterprise Service,Beijing,C,1978,get outcompeted
+2017,Education,Shanghai,C,1674,no business model
+2017,Local Business,Beijing,D,1552,no market need
+2017,New Industry,Beijing,D,1521,ran out of cash
+2017,Social Media,Shanghai,C,2770,no business model
+2017,Education,Guangdong,C,1825,no business model
+2017,Entertainment,Beijing,C,4931,no business model
+2017,New Industry,Guangdong,B,1552,pivot gone bad
+2017,Health,Beijing,C,1886,no business model
+2017,E-Commerce,Shanghai,B,1856,no market need
+2017,Marketing,Beijing,C,4931,no business model
+2017,E-Commerce,Beijing,C,1794,no business model
+2017,E-Commerce,Zhejiang,C,2160,lose focus
+2017,Education,Beijing,D,2191,get outcompeted
+2017,E-Commerce,Jiangsu,B,1491,no market need
+2017,Education,Beijing,D,1978,no investor interest
+2017,Education,Beijing,C,1552,no business model
+2017,Transportation,Beijing,B,2039,no business model
+2017,Transportation,Beijing,C,2466,no business model
+2017,Transportation,Jiangsu,C,2070,pivot gone bad
+2017,Enterprise Service,Shanghai,D,1735,ignore customers
+2017,E-Commerce,Beijing,C,2100,get outcompeted
+2017,Logistics,Guangdong,L,1886,ran out of cash
+2017,Travel,Beijing,B,1886,get outcompeted
+2017,Transportation,Shanghai,C,2222,no business model
+2017,Education,Shanghai,B,1552,no market need
+2017,Game,Beijing,D,1491,product mistimed
+2017,Local Business,Guangdong,D,1521,get outcompeted
+2017,E-Commerce,Beijing,L,1978,burn out
+2017,Travel,Shanghai,G,2191,no business model
+2017,Enterprise Service,Beijing,C,1521,product mistimed
+2017,Game,Beijing,C,1674,no business model
+2017,Social Media,Shandong,K,1552,no market need
+2017,Transportation,Beijing,C,2070,no investor interest
+2017,Transportation,Beijing,D,1552,no market need
+2017,E-Commerce,Beijing,C,1978,no business model
+2017,Social Media,Beijing,E,2070,no market need
+2017,Game,Beijing,D,2131,pricing/cost issue
+2017,Social Media,Beijing,E,2070,no business model
+2017,E-Commerce,Shanghai,C,2405,get outcompeted
+2017,E-Commerce,Anhui,C,2039,not the right team
+2017,Hardware,Guangdong,D,1825,pricing/cost issue
+2017,Hardware,Overseas,B,1582,product mistimed
+2017,Finance,Guangdong,D,1825,no market need
+2017,Marketing,Shanghai,D,1644,no market need
+2017,Education,Taiwan,D,1825,no market need
+2017,Education,Hunan,C,1582,no business model
+2017,Real Estate,Shanghai,C,1552,no business model
+2017,Finance,Sichuan,D,1613,supervision
+2017,Local Business,Beijing,D,1644,no business model
+2017,Travel,Guangdong,B,1644,get outcompeted
+2017,Social Media,Beijing,D,2100,no market need
+2017,E-Commerce,Beijing,D,1613,poor product
+2017,Education,Beijing,C,1735,get outcompeted
+2017,Entertainment,Beijing,D,2039,poor product
+2017,Transportation,Zhejiang,B,1552,get outcompeted
+2017,E-Commerce,Guangdong,B,1856,no investor interest
+2017,Sports,Beijing,D,1644,no investor interest
+2017,E-Commerce,Beijing,B,1886,product mistimed
+2017,Enterprise Service,Sichuan,C,1582,no business model
+2017,Social Media,Beijing,E,3621,no business model
+2017,Social Media,Beijing,C,1582,no business model
+2017,Transportation,Sichuan,D,1917,lose focus
+2017,Tool,Sichuan,D,1917,lose focus
+2017,Local Business,Shanghai,D,1582,poor marketing
+2017,Enterprise Service,Beijing,C,2100,get outcompeted
+2017,Enterprise Service,Shanghai,K,2131,get outcompeted
+2017,Social Media,Zhejiang,D,2009,lose focus
+2017,E-Commerce,Guangdong,D,1613,ran out of cash
+2017,Social Media,Hubei,B,2160,no business model
+2017,Hardware,Guangdong,C,1856,pricing/cost issue
+2017,Social Media,Beijing,C,2039,no business model
+2017,Social Media,Beijing,C,2039,no business model
+2017,Tool,Sichuan,C,2070,no investor interest
+2017,Marketing,Beijing,C,2436,no business model
+2017,Transportation,Shanghai,E,1825,failure to pivot
+2017,Education,Zhejiang,D,1947,ran out of cash
+2017,Travel,Beijing,B,1766,get outcompeted
+2017,New Industry,Beijing,B,2039,product mistimed
+2017,Enterprise Service,Shanghai,D,2191,ignore customers
+2017,Social Media,Shanghai,C,2039,no market need
+2017,Health,Shanghai,D,1917,lose focus
+2017,Game,Shanghai,B,2678,no market need
+2017,Local Business,Beijing,C,2222,no business model
+2017,Game,Sichuan,C,1674,product mistimed
+2017,Education,Beijing,C,1735,pivot gone bad
+2017,E-Commerce,Liaoning,C,2070,no business model
+2017,Sports,Overseas,B,1886,no business model
+2017,Marketing,Guangdong,C,1766,no business model
+2017,Local Business,Beijing,D,2131,no business model
+2017,Tool,Liaoning,C,1825,lose focus
+2017,Local Business,Guangdong,C,1856,product mistimed
+2017,Entertainment,Liaoning,C,1825,lose focus
+2017,Education,Shanghai,C,1613,product mistimed
+2017,E-Commerce,Guangdong,C,1917,no business model
+2017,E-Commerce,Shanghai,B,1674,no market need
+2017,Marketing,Liaoning,C,1613,lose focus
+2017,Local Business,Hubei,D,1917,no market need
+2017,Social Media,Sichuan,C,2160,no business model
+2017,Social Media,Overseas,B,1552,poor product
+2017,Social Media,Beijing,C,1735,pivot gone bad
+2017,Travel,Beijing,B,2100,poor marketing
+2017,Social Media,Shanghai,D,1825,no market need
+2017,Tool,Guangdong,C,1917,pivot gone bad
+2017,Local Business,Beijing,C,1735,get outcompeted
+2017,Social Media,Shandong,C,2009,no business model
+2017,E-Commerce,Guangdong,C,2070,no business model
+2017,Sports,Beijing,C,1552,pivot gone bad
+2017,Social Media,Shanghai,C,1947,no business model
+2017,Enterprise Service,Jiangsu,C,2131,no business model
+2017,Enterprise Service,Sichuan,C,1947,no market need
+2017,Social Media,Beijing,C,1794,no business model
+2017,Enterprise Service,Taiwan,C,2191,lose focus
+2017,E-Commerce,Zhejiang,D,1917,no market need
+2017,Tool,Beijing,G,2191,no market need
+2017,Entertainment,Beijing,B,1825,no market need
+2017,Enterprise Service,Shandong,C,1735,no business model
+2017,Logistics,Jiangsu,A,1978,ran out of cash
+2017,Travel,Beijing,C,2497,no business model
+2017,Hardware,Overseas,B,1794,no market need
+2017,E-Commerce,Taiwan,C,1856,pivot gone bad
+2017,Real Estate,Beijing,D,1613,pricing/cost issue
+2017,Local Business,Zhejiang,D,4072,get outcompeted
+2017,Hardware,Guangdong,G,3272,pricing/cost issue
+2017,Enterprise Service,Beijing,D,861,lose focus
+2017,Local Business,Beijing,G,3991,founder
+2017,Real Estate,Guangdong,K,822,ran out of cash
+2017,Social Media,Beijing,D,1339,no business model
+2017,Travel,Beijing,B,1542,pivot gone bad
+2017,E-Commerce,Shanghai,K,1081,burn out
+2017,Transportation,Overseas,J,676,no business model
+2017,Hardware,Overseas,A,1766,poor product
+2017,Health,Beijing,D,792,no business model
+2017,Transportation,Beijing,B,1211,burn out
+2017,Transportation,Beijing,D,498,supervision
+2017,Enterprise Service,Zhejiang,B,741,no business model
+2017,Hardware,Beijing,B,1102,product mistimed
+2017,E-Commerce,Beijing,C,1099,no business model
+2017,Transportation,Beijing,B,1764,get outcompeted
+2017,Logistics,Overseas,J,1730,burn out
+2017,E-Commerce,Shanghai,D,613,no business model
+2017,Transportation,Shanghai,D,858,burn out
+2017,Sports,Beijing,D,855,get outcompeted
+2017,Social Media,Guangdong,A,2954,poor product
+2017,Social Media,Beijing,C,1461,no business model
+2017,E-Commerce,Guangdong,C,816,no market need
+2017,Local Business,Beijing,B,860,ran out of cash
+2017,E-Commerce,Chongqing,C,616,no business model
+2017,Entertainment,Guangdong,C,919,no business model
+2017,Local Business,Sichuan,C,830,no business model
+2017,E-Commerce,Beijing,C,2168,no business model
+2017,Local Business,Guangdong,C,891,no market need
+2017,Local Business,Chongqing,B,799,no market need
+2017,Transportation,Shandong,C,890,no market need
+2017,Real Estate,Guangdong,C,829,get outcompeted
+2017,Tool,Jiangsu,C,1194,no business model
+2017,Finance,Shanghai,C,1010,no business model
+2017,Hardware,Guangdong,B,1038,product mistimed
+2017,Local Business,Beijing,C,946,no business model
+2017,E-Commerce,Guangdong,C,1007,no business model
+2017,E-Commerce,Guangdong,C,1007,no business model
+2017,Local Business,Beijing,A,915,no market need
+2017,Entertainment,Shanghai,C,1007,no market need
+2017,Local Business,Zhejiang,B,795,burn out
+2017,Transportation,Shanghai,D,1037,no market need
+2017,Transportation,Anhui,C,1006,pivot gone bad
+2017,Travel,Beijing,D,1219,supervision
+2017,Health,Beijing,D,975,no market need
+2017,Health,Beijing,C,3500,no business model
+2017,Social Media,Fujian,C,2710,no business model
+2017,Enterprise Service,Sichuan,C,543,no business model
+2017,Health,Beijing,B,635,get outcompeted
+2017,Education,Shandong,D,1061,lose focus
+2017,Hardware,Beijing,D,1303,product mistimed
+2017,E-Commerce,Shanghai,C,847,no business model
+2017,Game,Shanghai,D,906,no business model
+2017,Hardware,Beijing,D,905,poor product
+2017,Enterprise Service,Beijing,C,905,failure to pivot
+2017,Education,Shanghai,D,1058,lose focus
+2017,E-Commerce,Guangdong,C,266,product mistimed
+2017,E-Commerce,Beijing,C,905,pivot gone bad
+2017,Travel,Sichuan,C,450,no market need
+2017,E-Commerce,Sichuan,C,723,no business model
+2017,Real Estate,Shanghai,D,996,product mistimed
+2017,Enterprise Service,Shanghai,C,631,pivot gone bad
+2017,Tool,Shanghai,C,1241,no business model
+2017,Finance,Shanghai,D,631,founder
+2017,Enterprise Service,Shanghai,C,631,no business model
+2017,Local Business,Zhejiang,D,784,pivot gone bad
+2017,Travel,Shanghai,J,778,no market need
+2017,E-Commerce,Guangdong,B,740,no investor interest
+2017,Entertainment,Beijing,B,740,failure to pivot
+2017,Social Media,Guangdong,B,1105,no market need
+2017,E-Commerce,Fujian,D,1043,lose focus
+2017,Social Media,Beijing,D,740,no market need
+2017,Enterprise Service,Shanghai,D,678,no market need
+2017,Real Estate,Shanghai,B,1132,poor product
+2017,Transportation,Beijing,D,827,product mistimed
+2017,Entertainment,Beijing,B,1009,product mistimed
+2017,Transportation,Hubei,D,705,burn out
+2017,Game,Beijing,B,1101,ran out of cash
+2017,Travel,Shanghai,K,1101,get outcompeted
+2017,Real Estate,Beijing,D,1101,no business model
+2017,Finance,Beijing,J,521,legal challenges
+2017,E-Commerce,Beijing,B,1373,poor marketing
+2017,E-Commerce,Beijing,C,734,no market need
+2017,Tool,Beijing,C,1402,no business model
+2017,Local Business,Beijing,C,946,no business model
+2017,Social Media,Beijing,C,549,pivot gone bad
+2017,Social Media,Beijing,B,1128,no market need
+2017,Local Business,Beijing,D,883,burn out
+2017,E-Commerce,Shanghai,B,914,no market need
+2017,E-Commerce,Chongqing,A,1189,founder
+2017,Education,Zhejiang,D,824,pivot gone bad
+2017,Agriculture,Beijing,B,1187,no investor interest
+2017,Marketing,Sichuan,D,1411,failure to pivot
+2017,Local Business,Shanghai,D,740,no business model
+2017,Local Business,Guangdong,D,1040,no investor interest
+2017,New Industry,Beijing,B,1831,no market need
+2017,Entertainment,Guangdong,D,736,lose focus
+2017,Enterprise Service,Beijing,C,3960,get outcompeted
+2017,Local Business,Overseas,A,1519,no business model
+2017,Finance,Shanghai,A,787,supervision
+2017,Entertainment,Zhejiang,C,3097,lose focus
+2017,E-Commerce,Zhejiang,B,1101,failure to pivot
+2017,Education,Beijing,C,1466,get outcompeted
+2017,Entertainment,Beijing,K,1101,product mistimed
+2017,E-Commerce,Sichuan,D,736,no market need
+2017,Finance,Beijing,B,1101,supervision
+2017,Real Estate,Shanghai,J,736,product mistimed
+2017,Social Media,Beijing,D,1461,no business model
+2017,Enterprise Service,Beijing,D,608,founder
+2017,Health,Shanghai,C,740,no business model
+2017,Entertainment,Shanghai,B,1466,no business model
+2017,Entertainment,Shanghai,A,1831,no investor interest
+2017,Hardware,Shaanxi,D,785,no business model
+2017,Local Business,Beijing,B,768,product mistimed
+2017,Health,Shanghai,D,1101,poor marketing
+2017,Finance,Shanghai,B,370,supervision
+2017,Enterprise Service,Zhejiang,B,736,product mistimed
+2017,Enterprise Service,Beijing,D,1100,lose focus
+2017,Education,Beijing,D,3712,ran out of cash
+2017,Transportation,Fujian,J,151,product mistimed
+2017,Local Business,Guangdong,D,700,get outcompeted
+2017,Social Media,Guangdong,D,740,no market need
+2017,Social Media,Shanghai,D,1105,no market need
+2017,Game,Shanghai,D,1134,burn out
+2017,E-Commerce,Beijing,B,736,burn out
+2017,Travel,Sichuan,D,1100,poor marketing
+2017,Transportation,Beijing,E,1491,burn out
+2017,Finance,Beijing,D,740,no market need
+2017,Travel,Shanghai,E,4755,no investor interest
+2017,Education,Beijing,A,4754,pivot gone bad
+2017,Travel,Beijing,D,1101,no market need
+2017,E-Commerce,Chongqing,D,1101,no business model
+2017,E-Commerce,Shanghai,D,1101,no business model
+2017,Local Business,Beijing,C,1588,no market need
+2017,Finance,Beijing,C,250,supervision
+2017,Local Business,Jiangsu,K,676,no business model
+2017,Social Media,Beijing,J,370,no market need
+2017,Travel,Guangdong,D,522,no business model
+2017,Local Business,Guangdong,K,2192,pivot gone bad
+2017,E-Commerce,Beijing,J,915,no business model
+2017,E-Commerce,Beijing,G,641,get outcompeted
+2017,Social Media,Guangdong,D,976,get outcompeted
+2017,Local Business,Beijing,D,731,burn out
+2017,Education,Guangdong,D,945,no business model
+2017,Enterprise Service,Beijing,D,641,product mistimed
+2017,E-Commerce,Shanghai,J,275,no market need
+2016,E-Commerce,Beijing,C,2010,no business model
+2016,Enterprise Service,Beijing,C,2040,no business model
+2016,Social Media,Henan,C,1887,no business model
+2016,Finance,Hunan,C,1918,pivot gone bad
+2016,Social Media,Guangdong,D,1979,no business model
+2016,Entertainment,Beijing,B,1979,no business model
+2016,Tool,Shanghai,D,2040,no market need
+2016,Game,Shandong,C,1857,get outcompeted
+2016,Finance,Shanghai,C,2191,pivot gone bad
+2016,Game,Jiangsu,D,1979,burn out
+2016,Enterprise Service,Overseas,E,2191,no investor interest
+2016,Enterprise Service,Shanghai,B,1887,get outcompeted
+2016,Entertainment,Shaanxi,D,2010,failure to pivot
+2016,Education,Beijing,E,2071,ignore customers
+2016,Social Media,Beijing,C,1887,no business model
+2016,Game,Beijing,A,1857,burn out
+2016,E-Commerce,Beijing,B,2191,pricing/cost issue
+2016,Entertainment,Fujian,C,2010,no market need
+2016,Enterprise Service,Shanghai,D,1918,no investor interest
+2016,Game,Beijing,C,2191,pivot gone bad
+2016,Sports,Overseas,A,2191,lose focus
+2016,Social Media,Sichuan,B,1918,no market need
+2016,Local Business,Shanghai,C,2132,no business model
+2016,Marketing,Shanghai,C,1887,no market need
+2016,E-Commerce,Shanghai,B,2160,pricing/cost issue
+2016,Social Media,Shanghai,B,2040,no market need
+2016,Tool,Shanghai,C,2191,no investor interest
+2016,Education,Beijing,D,1857,no investor interest
+2016,Enterprise Service,Beijing,B,2010,get outcompeted
+2016,Tool,Zhejiang,C,2101,lose focus
+2016,Transportation,Beijing,B,2010,pricing/cost issue
+2016,Tool,Hong Kong,B,2191,no market need
+2016,Tool,Shanghai,D,1948,pivot gone bad
+2016,Local Business,Shanghai,D,2040,no market need
+2016,Tool,Guangdong,C,1857,pivot gone bad
+2016,Education,Sichuan,C,1887,get outcompeted
+2016,Social Media,Beijing,C,2132,pivot gone bad
+2016,Finance,Beijing,C,2191,supervision
+2016,Enterprise Service,Shanghai,C,1857,no business model
+2016,Marketing,Beijing,C,2071,no business model
+2016,Social Media,Zhejiang,D,1979,get outcompeted
+2016,Tool,Beijing,D,1857,ran out of cash
+2016,Local Business,Hubei,C,1857,get outcompeted
+2016,E-Commerce,Beijing,B,1948,no market need
+2016,Local Business,Overseas,B,1918,no market need
+2016,Entertainment,Beijing,B,1857,get outcompeted
+2016,Local Business,Jiangsu,C,2010,no business model
+2016,Enterprise Service,Shanghai,D,1887,no business model
+2016,Marketing,Shanghai,D,2101,no business model
+2016,Game,Shanghai,D,2132,no investor interest
+2016,E-Commerce,Beijing,B,2101,pricing/cost issue
+2016,Transportation,Beijing,B,1887,get outcompeted
+2016,Enterprise Service,Beijing,D,2010,no market need
+2016,Transportation,Shaanxi,D,2010,get outcompeted
+2016,Entertainment,Guangdong,C,1887,product mistimed
+2016,Travel,Beijing,E,2101,get outcompeted
+2016,Game,Fujian,C,2132,no investor interest
+2016,Game,Fujian,C,2132,no investor interest
+2016,Entertainment,Beijing,D,2071,no market need
+2016,E-Commerce,Zhejiang,D,1979,no market need
+2016,Marketing,Guangdong,A,1948,ignore customers
+2016,Travel,Beijing,D,2101,pricing/cost issue
+2016,Social Media,Sichuan,C,1918,no business model
+2016,Hardware,Guangdong,B,1918,pricing/cost issue
+2016,Game,Shanghai,C,2010,lose focus
+2016,Enterprise Service,Guangdong,C,2132,get outcompeted
+2016,Hardware,Overseas,A,2071,burn out
+2016,Enterprise Service,Guangdong,C,2132,pricing/cost issue
+2016,E-Commerce,Beijing,B,1887,pricing/cost issue
+2016,Education,Beijing,B,2191,ignore customers
+2016,Tool,Beijing,D,2071,no market need
+2016,Enterprise Service,Shanghai,A,2071,no market need
+2016,Tool,Beijing,D,1918,no investor interest
+2016,Local Business,Beijing,B,2010,get outcompeted
+2016,Entertainment,Beijing,D,2160,poor marketing
+2016,Game,Beijing,B,2191,get outcompeted
+2016,Enterprise Service,Shanghai,C,1887,no business model
+2016,Local Business,Shanghai,B,720,burn out
+2016,E-Commerce,Shanghai,C,682,no market need
+2016,E-Commerce,Shanghai,D,740,no market need
+2016,Tool,Beijing,D,740,no business model
+2016,Transportation,Beijing,G,1101,burn out
+2016,Logistics,Shanghai,K,1466,poor marketing
+2016,Social Media,Beijing,D,1101,no market need
+2016,Travel,Guangdong,D,1101,no business model
+2016,E-Commerce,Beijing,C,2135,no business model
+2016,Transportation,Shanghai,B,740,no market need
+2016,E-Commerce,Beijing,D,458,no market need
+2016,Real Estate,Beijing,B,1219,ran out of cash
+2016,Entertainment,Jiangsu,C,1105,no business model
+2016,Social Media,Shanghai,B,1832,no market need
+2016,Local Business,Shanghai,B,1832,founder
+2016,Tool,Beijing,C,915,no business model
+2016,Tool,Shanghai,D,740,no market need
+2016,Finance,Beijing,C,860,no market need
+2016,Health,Hubei,C,769,no business model
+2016,Health,Beijing,C,769,no business model
+2016,Health,Beijing,C,798,no business model
+2016,Entertainment,Beijing,C,1741,no business model
+2016,Local Business,Guangdong,C,768,no market need
+2016,E-Commerce,Shanghai,C,949,no business model
+2016,Enterprise Service,Shanghai,C,1221,no business model
+2016,Transportation,Shanghai,C,734,product mistimed
+2016,Tool,Beijing,C,794,get outcompeted
+2016,Finance,Shandong,C,1220,no business model
+2016,Transportation,Beijing,D,794,failure to pivot
+2016,E-Commerce,Liaoning,C,1190,get outcompeted
+2016,Education,Beijing,D,1310,no business model
+2016,Entertainment,Beijing,C,641,get outcompeted
+2016,Tool,Zhejiang,C,1310,no business model
+2016,Tool,Zhejiang,C,1310,no business model
+2016,Finance,Guangdong,C,764,no business model
+2016,Enterprise Service,Shanghai,C,1036,no business model
+2016,Sports,Beijing,C,520,no business model
+2016,Enterprise Service,Beijing,C,885,failure to pivot
+2016,New Industry,Sichuan,C,1278,no business model
+2016,Finance,Shanghai,C,1005,supervision
+2016,Travel,Henan,C,1615,no business model
+2016,Logistics,Shanghai,C,913,no business model
+2016,Enterprise Service,Shanghai,C,854,no business model
+2016,Social Media,Beijing,C,854,product mistimed
+2016,Local Business,Shandong,C,974,pivot gone bad
+2016,Finance,Beijing,C,853,no business model
+2016,Finance,Beijing,C,943,supervision
+2016,Game,Sichuan,D,1888,no business model
+2016,Enterprise Service,Guangdong,C,943,no business model
+2016,Tool,Beijing,C,884,no market need
+2016,Entertainment,Shanghai,C,943,pivot gone bad
+2016,E-Commerce,Guangxi,C,943,no market need
+2016,E-Commerce,Guangxi,C,974,no market need
+2016,Local Business,Shanghai,C,1126,no business model
+2016,Entertainment,Beijing,C,1126,no business model
+2016,E-Commerce,Guangdong,C,1245,no business model
+2016,Game,Beijing,C,3496,no business model
+2016,Marketing,Beijing,C,1092,get outcompeted
+2016,Hardware,Jiangsu,B,1122,no business model
+2016,Finance,Shanghai,C,3829,no business model
+2016,Health,Jiangsu,D,1030,get outcompeted
+2016,Education,Beijing,C,1853,product mistimed
+2016,Health,Beijing,C,1302,no business model
+2016,Tool,Beijing,C,1728,no business model
+2016,Game,Sichuan,C,1636,no business model
+2016,E-Commerce,Beijing,C,785,no business model
+2016,Health,Beijing,C,1301,no business model
+2016,Health,Beijing,D,905,pricing/cost issue
+2016,Enterprise Service,Jiangsu,C,1270,poor product
+2016,Transportation,Zhejiang,C,1301,get outcompeted
+2016,E-Commerce,Liaoning,C,935,no business model
+2016,Enterprise Service,Shanghai,C,2975,lose focus
+2016,Local Business,Fujian,B,1119,no business model
+2016,Social Media,Guangdong,C,3036,no business model
+2016,Social Media,Beijing,C,2337,lose focus
+2016,Transportation,Jiangsu,C,1180,no business model
+2016,Entertainment,Beijing,C,1269,lose focus
+2016,Sports,Beijing,C,1941,no business model
+2016,Finance,Beijing,C,1088,no business model
+2016,Social Media,Shanghai,D,1180,no business model
+2016,Game,Beijing,E,1206,no business model
+2016,Local Business,Beijing,D,780,no market need
+2016,Enterprise Service,Beijing,D,780,no market need
+2016,Travel,Beijing,C,658,no business model
+2016,Social Media,Beijing,D,643,no market need
+2016,Finance,Beijing,B,1130,no business model
+2016,Local Business,Shanghai,B,1800,no business model
+2016,Transportation,Beijing,A,1831,get outcompeted
+2016,Health,Shanghai,B,857,no market need
+2016,E-Commerce,Beijing,D,947,get outcompeted
+2016,E-Commerce,Guangdong,B,765,no business model
+2016,Social Media,Beijing,D,643,no market need
+2016,Local Business,Shanghai,B,1100,get outcompeted
+2016,Game,Shanghai,C,1130,get outcompeted
+2016,Hardware,Beijing,F,1130,not the right team
+2016,Education,Shanghai,D,643,product mistimed
+2016,Hardware,Beijing,B,1100,pricing/cost issue
+2016,Hardware,Beijing,B,1281,product mistimed
+2016,Travel,Beijing,D,431,no market need
+2016,Enterprise Service,Anhui,K,704,get outcompeted
+2016,Travel,Zhejiang,B,1130,no business model
+2016,Health,Beijing,D,1191,no business model
+2016,Travel,Sichuan,D,1038,get outcompeted
+2016,Entertainment,Beijing,B,1100,no market need
+2016,E-Commerce,Beijing,A,1008,burn out
+2016,Entertainment,Beijing,D,339,product mistimed
+2016,New Industry,Guangdong,C,1191,ran out of cash
+2016,Education,Beijing,B,1100,get outcompeted
+2016,Hardware,Shanghai,D,1281,no market need
+2016,Local Business,Zhejiang,A,673,no market need
+2016,Finance,Shanghai,B,431,no business model
+2016,Finance,Zhejiang,B,551,product mistimed
+2016,Finance,Beijing,B,673,supervision
+2016,Travel,Shanghai,B,735,founder
+2016,Entertainment,Beijing,D,1038,lose focus
+2016,Social Media,Beijing,D,673,no market need
+2016,Social Media,Beijing,D,1130,no market need
+2016,Local Business,Beijing,A,643,no investor interest
+2016,Local Business,Beijing,B,704,burn out
+2016,Finance,Beijing,D,459,supervision
+2016,Social Media,Beijing,D,671,no business model
+2016,Entertainment,Zhejiang,D,763,product mistimed
+2016,Tool,Beijing,B,1067,no business model
+2016,Entertainment,Guangdong,D,1159,pivot gone bad
+2016,Entertainment,Beijing,C,1735,no market need
+2016,Social Media,Beijing,B,1102,legal challenges
+2016,Tool,Beijing,D,1466,no business model
+2016,Entertainment,Beijing,E,1466,pivot gone bad
+2016,E-Commerce,Beijing,C,517,no market need
+2016,Social Media,Shanghai,B,1466,no market need
+2016,Enterprise Service,Beijing,C,1461,pivot gone bad
+2016,Entertainment,Beijing,D,1102,no business model
+2016,Finance,Guangdong,G,340,supervision
+2016,Entertainment,Beijing,D,288,get outcompeted
+2016,Local Business,Beijing,D,1101,no market need
+2016,Health,Shanghai,C,182,no business model
+2016,Logistics,Hunan,B,365,product mistimed
+2016,E-Commerce,Beijing,D,1831,no market need
+2016,Travel,Shanghai,A,1466,no market need
+2016,Entertainment,Zhejiang,D,1401,no market need
+2016,Social Media,Beijing,D,761,no market need
+2015,Enterprise Service,Beijing,A,2404,ran out of cash
+2015,Real Estate,Beijing,B,2312,get outcompeted
+2015,E-Commerce,Beijing,C,2039,lose focus
+2015,Tool,Beijing,G,2039,lose focus
+2015,Tool,Beijing,G,2039,lose focus
+2015,Social Media,Shanghai,A,2039,no market need
+2015,Tool,Beijing,E,2524,pivot gone bad
+2015,Social Media,Overseas,E,1886,no market need
+2015,E-Commerce,Shanghai,A,2374,pricing/cost issue
+2015,Transportation,Shanghai,C,1947,no business model
+2015,Local Business,Beijing,D,1978,poor marketing
+2015,E-Commerce,Shanghai,A,2100,pricing/cost issue
+2015,Tool,Shanghai,C,2190,get outcompeted
+2015,Finance,Guangdong,B,2404,no business model
+2015,New Industry,Overseas,E,2555,poor product
+2015,E-Commerce,Guangdong,A,2131,get outcompeted
+2015,Game,Shanghai,B,2100,get outcompeted
+2015,Social Media,Beijing,D,2070,no market need
+2015,Game,Beijing,B,2131,get outcompeted
+2015,Local Business,Zhejiang,C,1886,get outcompeted
+2015,Travel,Zhejiang,C,2190,get outcompeted
+2015,Education,Beijing,B,1947,pricing/cost issue
+2015,Hardware,Zhejiang,C,1947,no investor interest
+2015,Education,Beijing,B,1917,lose focus
+2015,Finance,Shanghai,D,2374,supervision
+2015,Health,Beijing,C,1856,no business model
+2015,E-Commerce,Shanghai,B,2070,ignore customers
+2015,Social Media,Guangdong,B,2131,pivot gone bad
+2015,Finance,Sichuan,E,1917,supervision
+2015,Social Media,Shanghai,B,2039,pivot gone bad
+2015,Marketing,Zhejiang,C,1856,failure to pivot
+2015,Game,Guangdong,C,2496,get outcompeted
+2015,Game,Guangdong,B,2282,get outcompeted
+2015,Local Business,Shanghai,D,1856,no market need
+2015,Logistics,Beijing,B,2555,product mistimed
+2015,E-Commerce,Beijing,D,2190,no investor interest
+2015,Entertainment,Shanghai,B,1886,no investor interest
+2015,Local Business,Shanghai,D,2496,get outcompeted
+2015,Education,Zhejiang,B,2343,no business model
+2015,Social Media,Beijing,C,2435,no business model
+2015,E-Commerce,Beijing,D,1978,get outcompeted
+2015,Education,Shanghai,D,2465,poor product
+2015,E-Commerce,Shanghai,C,2100,get outcompeted
+2015,E-Commerce,Shanghai,B,1978,pricing/cost issue
+2015,E-Commerce,Guangdong,B,1917,pricing/cost issue
+2015,Social Media,Beijing,D,1917,no market need
+2015,Entertainment,Guangdong,C,2343,no market need
+2015,Logistics,Guangdong,C,1978,pivot gone bad
+2015,Travel,Beijing,E,1466,get outcompeted
+2015,E-Commerce,Beijing,D,1100,pricing/cost issue
+2015,Real Estate,Guangdong,C,647,no business model
+2015,Local Business,Guangdong,C,1346,no business model
+2015,Social Media,Beijing,C,1283,no business model
+2015,Tool,Beijing,C,1009,no business model
+2015,E-Commerce,Heilongjiang,C,736,no business model
+2015,Social Media,Beijing,C,1375,no business model
+2015,E-Commerce,Sichuan,C,825,no business model
+2015,Education,Beijing,D,1066,no market need
+2015,Local Business,Guangdong,C,944,no business model
+2015,Transportation,Zhejiang,C,1066,failure to pivot
+2015,Real Estate,Guangdong,C,943,get outcompeted
+2015,Health,Shanghai,C,1188,no business model
+2015,Social Media,Beijing,C,852,product mistimed
+2015,Entertainment,Fujian,C,1979,no business model
+2015,Tool,Zhejiang,C,1034,no business model
+2015,Local Business,Anhui,C,1126,no business model
+2015,Education,Guangdong,C,1826,no business model
+2015,Finance,Guangdong,C,1034,no business model
+2015,E-Commerce,Beijing,C,852,no business model
+2015,Education,Jiangsu,C,941,get outcompeted
+2015,Travel,Beijing,C,1399,no business model
+2015,Social Media,Beijing,C,821,no business model
+2015,Social Media,Shanghai,C,634,no market need
+2015,Enterprise Service,Hubei,D,1183,no investor interest
+2015,Hardware,Guangdong,A,1488,pricing/cost issue
+2015,Local Business,Guangdong,D,634,ran out of cash
+2015,Marketing,Zhejiang,C,999,no business model
+2015,Social Media,Sichuan,D,1304,no market need
+2015,Tool,Beijing,C,2368,no business model
+2015,Tool,Shanghai,C,5687,no business model
+2015,Social Media,Beijing,C,1091,no business model
+2015,Local Business,Beijing,C,848,no business model
+2015,Game,Beijing,C,695,no business model
+2015,Finance,Beijing,C,848,no business model
+2015,Finance,Beijing,C,938,no business model
+2015,Game,Beijing,C,937,no business model
+2015,Tool,Shanghai,D,878,no market need
+2015,Game,Hunan,C,1303,pivot gone bad
+2015,Enterprise Service,Beijing,C,2217,no business model
+2015,E-Commerce,Beijing,C,1364,no business model
+2015,Game,Shanghai,C,694,no business model
+2015,Game,Shanghai,C,694,no business model
+2015,Local Business,Beijing,C,2367,no business model
+2015,Entertainment,Guangdong,D,694,poor marketing
+2015,Tool,Guangdong,C,725,no business model
+2015,Finance,Shanghai,C,878,no business model
+2015,Tool,Zhejiang,C,6204,no business model
+2015,Tool,Beijing,C,1029,no business model
+2015,Finance,Shanghai,C,1547,no business model
+2015,Tool,Beijing,C,1242,product mistimed
+2015,Social Media,Shanghai,C,2124,no business model
+2015,Finance,Beijing,A,1271,product mistimed
+2015,Local Business,Beijing,C,1150,no business model
+2015,Local Business,Shanghai,C,785,product mistimed
+2015,Finance,Hunan,C,724,supervision
+2015,Game,Shandong,D,1150,no business model
+2015,Local Business,Henan,C,724,pivot gone bad
+2015,Education,Beijing,C,755,no business model
+2015,E-Commerce,Beijing,C,1211,no business model
+2015,Education,Jiangsu,C,724,product mistimed
+2015,Finance,Beijing,C,997,no business model
+2015,Enterprise Service,Shanghai,C,1089,pivot gone bad
+2015,Enterprise Service,Beijing,C,724,pivot gone bad
+2015,Social Media,Shanghai,C,1088,no business model
+2015,Finance,Beijing,C,876,supervision
+2015,E-Commerce,Beijing,C,2549,no business model
+2015,New Industry,Shanghai,C,815,no business model
+2015,Tool,Zhejiang,C,1576,no business model
+2015,Real Estate,Guangdong,C,631,no business model
+2015,New Industry,Shanghai,C,1301,no business model
+2015,Social Media,Beijing,C,996,no business model
+2015,Finance,Beijing,C,814,no business model
+2015,Social Media,Beijing,C,3948,no business model
+2015,Finance,Shanghai,D,1148,no business model
+2015,Entertainment,Guangdong,C,1392,pivot gone bad
+2015,Health,Beijing,C,814,no business model
+2015,E-Commerce,Beijing,C,930,product mistimed
+2015,Local Business,Shanghai,L,3722,no business model
+2015,E-Commerce,Beijing,D,1436,pricing/cost issue
+2015,E-Commerce,Beijing,D,1129,pricing/cost issue
+2015,Education,Taiwan,B,976,poor marketing
+2015,E-Commerce,Beijing,B,1188,no market need
+2015,Enterprise Service,Beijing,E,1158,pivot gone bad
+2015,E-Commerce,Zhejiang,C,2588,no business model
+2015,Local Business,Beijing,G,944,no market need
+2015,Marketing,Sichuan,C,722,no business model
+2015,Real Estate,Zhejiang,D,1470,pricing/cost issue
+2015,E-Commerce,Beijing,B,1100,get outcompeted
+2015,Enterprise Service,Shanghai,B,1831,get outcompeted
+2015,Health,Beijing,C,121,no business model
+2015,Social Media,Beijing,C,1100,get outcompeted
+2015,E-Commerce,Beijing,B,1430,no business model
+2014,Enterprise Service,Shaanxi,C,2221,pivot gone bad
+2014,Game,Sichuan,B,2435,ran out of cash
+2014,E-Commerce,Shanghai,A,2221,get outcompeted
+2014,Transportation,Beijing,A,2496,get outcompeted
+2014,Enterprise Service,Jiangsu,D,2404,pivot gone bad
+2014,Finance,Beijing,C,2556,pivot gone bad
+2014,E-Commerce,Anhui,A,2556,no market need
+2014,Transportation,Guangdong,C,1917,no business model
+2014,Game,Guangdong,C,2404,get outcompeted
+2014,Social Media,Beijing,C,2465,pivot gone bad
+2014,Entertainment,Beijing,C,2465,pivot gone bad
+2014,Hardware,Overseas,M,2556,poor marketing
+2014,Marketing,Fujian,C,1096,no business model
+2014,Hardware,Shanghai,B,1071,pricing/cost issue
+2014,Enterprise Service,Shanghai,C,1160,no business model
+2014,E-Commerce,Beijing,C,1157,lose focus
+2014,Game,Shanghai,C,1249,no business model
+2014,Enterprise Service,Beijing,B,1156,get outcompeted
+2014,Marketing,Shandong,C,1156,pivot gone bad
+2014,E-Commerce,Shanghai,C,2251,no business model
+2014,E-Commerce,Zhejiang,C,1214,no business model
+2014,Marketing,Beijing,C,1184,no business model
+2014,Enterprise Service,Shanghai,C,1153,no business model
+2014,Finance,Beijing,C,1395,no business model
+2014,E-Commerce,Zhejiang,C,3313,no business model
+2014,Social Media,Beijing,C,1213,no business model
+2014,Enterprise Service,Beijing,C,1122,no business model
+2014,Hardware,Shanghai,C,1302,poor product
+2014,Travel,Beijing,C,1029,no business model
+2014,Entertainment,Guangdong,C,998,get outcompeted
+2014,Travel,Shanghai,D,1243,no market need
+2014,Real Estate,Beijing,C,1150,no business model
+2014,Social Media,Shanghai,C,2245,no business model
+2014,Entertainment,Fujian,C,1911,no business model
+2014,Entertainment,Beijing,C,844,no business model
+2014,Transportation,Shanghai,C,749,get outcompeted
+2014,Social Media,Sichuan,D,1008,ignore customers
+2014,Education,Shanghai,D,947,product mistimed
+2014,Tool,Beijing,C,1465,no business model
+2014,Social Media,Beijing,B,977,no market need
+2014,Education,Beijing,B,1281,no business model
+2014,Local Business,Shanghai,D,947,failure to pivot
+2014,Game,Beijing,D,1008,burn out
+2014,Entertainment,Guangdong,B,2784,legal challenges
+2014,Entertainment,Guangdong,C,380,legal challenges
+2014,Hardware,Guangdong,C,623,legal challenges
+2014,Enterprise Service,Shanghai,C,1113,pivot gone bad
+2014,Marketing,Jiangsu,D,1101,failure to pivot
+2014,E-Commerce,Guangdong,A,1826,pivot gone bad
+2013,E-Commerce,Beijing,A,2222,ran out of cash
+2013,Social Media,Beijing,C,2556,no market need
+2013,Enterprise Service,Beijing,D,2436,failure to pivot
+2013,Local Business,Shanghai,B,2525,no investor interest
+2013,Enterprise Service,Beijing,C,1127,no business model
+2013,Game,Jiangsu,C,2400,poor marketing
+2013,Health,Beijing,C,1061,no business model
+2013,E-Commerce,Shanghai,C,514,no business model
+2013,Local Business,Fujian,C,969,no market need
+2013,Marketing,Shanghai,C,1303,no business model
+2013,Travel,Beijing,B,1244,no market need
+2013,Tool,Beijing,C,1029,no business model
+2013,E-Commerce,Shanghai,C,1059,no business model
+2013,Game,Beijing,C,1090,no business model
+2013,Enterprise Service,Beijing,C,846,pivot gone bad
+2013,Tool,Shanghai,N,4954,no business model
+2013,Game,Beijing,C,816,pivot gone bad
+2013,Education,Beijing,C,663,no business model
+2013,Enterprise Service,Hubei,D,1495,no market need
+2013,Travel,Jiangsu,B,1403,no investor interest
+2013,Hardware,Zhejiang,B,1373,no investor interest
+2013,Enterprise Service,Beijing,B,1434,get outcompeted
+2012,Entertainment,Beijing,B,2556,no business model
+2012,Local Business,Beijing,O,2466,pricing/cost issue
+2012,Game,Beijing,C,2405,no business model
+2012,Social Media,Guangdong,C,2375,pivot gone bad
+2012,Social Media,Guangdong,C,2375,pivot gone bad
+2012,Entertainment,Beijing,D,2222,product mistimed
+2012,Transportation,Shanghai,D,2283,no business model
+2012,New Industry,Shanghai,G,2556,pivot gone bad
+2012,Social Media,Zhejiang,C,1010,product mistimed
+2012,Entertainment,Zhejiang,C,1152,pivot gone bad
+2012,New Industry,Beijing,A,4409,ran out of cash
+2012,Transportation,Guangdong,C,267,no business model
+2012,Enterprise Service,Guangdong,D,931,ignore customers
+2012,Health,Beijing,B,977,no market need
+2011,Entertainment,Beijing,E,2312,get outcompeted
+2011,Travel,Shanghai,D,2374,pivot gone bad
+2011,Hardware,Guangdong,B,2404,no investor interest
+2011,Health,Beijing,B,2374,lose focus
+2011,Enterprise Service,Beijing,C,756,no business model
+2011,Real Estate,Beijing,C,1424,get outcompeted
+2011,Health,Guangdong,C,1271,pivot gone bad
+2011,Enterprise Service,Jiangsu,G,784,no investor interest
+2011,Entertainment,Fujian,C,692,no business model
+2011,Education,Shanghai,A,1312,ran out of cash
+2010,Entertainment,Beijing,A,2251,not the right team
+2010,Game,Overseas,G,2343,no market need
+2010,Education,Zhejiang,E,1221,pivot gone bad
+2010,Game,Shanghai,A,907,no market need
+2010,Entertainment,Beijing,C,1302,no business model
+2010,Social Media,Shanghai,C,1270,pivot gone bad
